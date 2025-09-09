@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function(){
  ScrollReveal().reveal('#AhistóriadoPop', { delay: 500 });
  ScrollReveal().reveal('#Fotos do surgimento', { delay: 500 });
  ScrollReveal().reveal('#contato', { delay: 500 });
+ ScrollReveal().reveal('#contato', { delay: 500 });
